@@ -4,7 +4,7 @@ import time
 from datetime import date
 import pandas as pd
 
-path = 'C:/Users/sohal/Downloads/chromedriver_win32/chromedriver.exe'
+path = # add path of chrome driver
 website = 'https://www.bseindia.com/corporates/ann.html'
 
 # <---------- Default Operations ----------->
