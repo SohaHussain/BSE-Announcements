@@ -130,7 +130,7 @@ while True:
 
 print("Processing BSE DATA")
 print(df)
-df.to_csv(r'C:\Users\sohal\OneDrive\Desktop\data.csv', index=False)
+df.to_csv(r'# add file path', index=False)
 
 
 
